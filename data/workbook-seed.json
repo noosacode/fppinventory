@@ -1,0 +1,1026 @@
+{
+  "sourceWorkbook": "20261030-fpp-availability.ods",
+  "sourceSheet": "fppstocktake",
+  "varieties": [
+    {
+      "shortcode": "ag",
+      "name": "Azteg Gold",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 2,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 1,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "al",
+      "name": "Alana",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bc",
+      "name": "Buttercup",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 1,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bd",
+      "name": "Bubblegum Dream",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 2,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 1,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bj",
+      "name": "Red Knight (BJ)",
+      "group": 5,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 3,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bm",
+      "name": "Banana Milkshake",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bo",
+      "name": "Bowen",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "bw",
+      "name": "Bali Whirl",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "ca",
+      "name": "California Sunset",
+      "group": 2,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 3,
+        "5l-f": 2,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 1,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "car",
+      "name": "Caracasana",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cg",
+      "name": "Canary Gold",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cl",
+      "name": "Cherry Clusters",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 2,
+        "5l-f": 0,
+        "25l": 1,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cm",
+      "name": "Cindy Moragne",
+      "group": 5,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "co",
+      "name": "Cooktown Sunset",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cp",
+      "name": "Coconut Pink",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cr",
+      "name": "Candy Rainbow",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 1,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cs",
+      "name": "See CO",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "cub",
+      "name": "Cuba",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 1,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "el",
+      "name": "See PW",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "fi",
+      "name": "Fiesta",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 1,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "fs",
+      "name": "See TRI",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "gb",
+      "name": "George Brown",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "h",
+      "name": "Heidi",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 4,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 7,
+        "2l": 3,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "hp",
+      "name": "Hot Pink",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 5,
+        "5l-f": 12,
+        "25l": 0,
+        "17l": 1,
+        "8l-f": 0,
+        "2l": 15,
+        "5l-ss": 6,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "kam",
+      "name": "Kamino",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "mc",
+      "name": "Marshmallow Cup",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 3,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "my",
+      "name": "24e selling straight ones only! Mystery/Seedlings",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 2,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 13,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "nf",
+      "name": "Native Frangipani",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 10,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "pe",
+      "name": "Petite Pink",
+      "group": 5,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 3,
+        "25l": 10,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "pi",
+      "name": "Pink (or P)",
+      "group": 2,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 3,
+        "5l-f": 5,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 5,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "pp",
+      "name": "Pudica Pink",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 2,
+        "5l-f": 0,
+        "25l": 3,
+        "17l": 0,
+        "8l-f": 4,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "ps",
+      "name": "Pink Sunrise",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 1,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "pt",
+      "name": "Petite White",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 2,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "pw",
+      "name": "Pudica White",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 30,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 30,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "rb",
+      "name": "Red",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 2,
+        "5l-f": 5,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 5,
+        "5l-ss": 5,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "rg",
+      "name": "Ruby Gold",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 3,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "rh",
+      "name": "Razzmic Honey",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 3,
+        "5l-ss": 1,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "rk",
+      "name": "See BJ",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "sr",
+      "name": "Sharna's Rose",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 1,
+        "5l-f": 3,
+        "25l": 0,
+        "17l": 3,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "ss",
+      "name": "Sunset",
+      "group": 2,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 3,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "st",
+      "name": "Stenophylla",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 1,
+        "8l-f": 0,
+        "2l": 2,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "sw",
+      "name": "Singapore",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 2,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "tg",
+      "name": "Texas Gem",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "tre",
+      "name": "treasure",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "tri",
+      "name": "Tricolour",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 10,
+        "5l-f": 0,
+        "25l": 1,
+        "17l": 3,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "u",
+      "name": "Unknown",
+      "group": 1,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 6,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 2,
+        "2l": 0,
+        "5l-ss": 6,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "v",
+      "name": "Venus",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "w",
+      "name": "White (cream)",
+      "group": 2,
+      "quantities": {
+        "4l-ss": 8,
+        "8l-ss": 0,
+        "12l": 5,
+        "5l-f": 21,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 21,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "x",
+      "name": "See U",
+      "group": 3,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "y",
+      "name": "Yellow (See Heidi)",
+      "group": 4,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    },
+    {
+      "shortcode": "z",
+      "name": "Finished",
+      "group": 7,
+      "quantities": {
+        "4l-ss": 0,
+        "8l-ss": 0,
+        "12l": 0,
+        "5l-f": 0,
+        "25l": 0,
+        "17l": 0,
+        "8l-f": 0,
+        "2l": 0,
+        "5l-ss": 0,
+        "4l": 0,
+        "5l": 0,
+        "4l-f": 0,
+        "8l": 0
+      }
+    }
+  ]
+}
